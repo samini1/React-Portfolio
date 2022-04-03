@@ -47,6 +47,8 @@ function ContactForm() {
                 </div>
                 <button type='submit'>Submit</button>
             </form>
+            <p>Email: aminisyrous@gmail.component</p>
+            
         </section>
     );
 

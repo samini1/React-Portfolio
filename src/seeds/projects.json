@@ -2,43 +2,43 @@
     {
         "id" : "1",
         "name": "Puckwudgie House",
-        "desc": "",
-        "src": "puckwudgie-house.jpg",
+        "description": "Storefront for a running shoe distrubutor",
+        "src": "https://github.com/samini1/react-portfolio/blob/main/src/assets/img/puckwudgie-house.jpg?raw=true",
         "github": ""
     },
     {
         "id" : "2",
         "name": "Cofee Shop",
-        "desc": "",
-        "src": "",
+        "description": "Interactive menu",
+        "src": "https://github.com/samini1/react-portfolio/blob/main/src/assets/img/stock-photo-1.jpg?raw=true",
         "github": ""
     },
     {
         "id" : "3",
         "name": "Boullevard",
-        "desc": "",
-        "src": "",
+        "description": "Street view and events app",
+        "src": "https://github.com/samini1/react-portfolio/blob/main/src/assets/img/stock-photo-2.jpg?raw=true",
         "github": ""
     },
     {
         "id" : "4",
         "name": "Movie Search",
-        "desc": "",
-        "src": "",
+        "description": "Movie info and personal watch list",
+        "src": "https://github.com/samini1/react-portfolio/blob/main/src/assets/img/stock-photo-3.jpg?raw=true",
         "github": ""
     },
     {
         "id" : "5",
         "name": "Run Buddy",
-        "desc": "",
-        "src": "",
+        "description": "Front end for gym trainers",
+        "src": "https://github.com/samini1/react-portfolio/blob/main/src/assets/img/stock-photo-4.jpg?raw=true",
         "github": ""
     },
     {
         "id" : "6",
         "name": "Graphic Design",
-        "desc": "",
-        "src": "",
+        "description": "A passion",
+        "src": "https://github.com/samini1/react-portfolio/blob/main/src/assets/img/stock-photo-5.jpg?raw=true",
         "github": ""
     }
     
