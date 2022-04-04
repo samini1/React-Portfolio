@@ -28,14 +28,16 @@ body {
 }
 
 body {
+  display: flex-row;
+  flex-direction: column;
   margin: 0;
   padding: 0;
   font-weight: 600;
   line-height: 1.5;
   font-size: 18px;
   letter-spacing: .1em;
-  background: var(--natural);
-  color: var(--dark);
+  background: rgb(255,255,255);
+  background: linear-gradient(124deg, rgba(255,255,255,1) 0%, rgba(118,142,167,1) 33%, rgba(40,77,116,1) 76%, rgba(117,144,173,1) 86%);
   font-family: 'helvetica', cursive;
 
 }
@@ -148,7 +150,7 @@ input:focus {
 
 li {
   list-style: none;
-  padding-right: 30px;
+  padding-inline: 30px;
   padding-bottom: 10px;
 }
 
@@ -171,11 +173,22 @@ textarea {
   max-width: 600px;
   text-align: center;
   justify-content: center;
+  background-color: var(--primary);
+  border-radius: 10px;
+  padding-inline: 15px;
+  padding-bottom: 1px;
 }
 
 .aboutme h3 {
-  color: var(--darker);
-  font-weight: 800;
+  color: var(--light);
+  font-weight: 800;  
+}
+
+.aboutme p {
+  background-color: #fafafa;
+  border-radius: 10px;
+  padding: 3px;
+  padding-top: 25px;
 }
 
 .container {
@@ -277,21 +290,44 @@ a {
 	
 }
 
-.navActive {
-  color: var(--darker);
+.current {
+  background-color: #59718a;
+}
+
+.error {
+  color: rgb(167, 56, 56);
 }
 
 .header-bar {
   background-color: var(--primary);
   display: flex;
-
+  color: var(--light);
+  padding-left: 2%;
 }
 
 .footer-bar {
   background-color: var(--primary);
-  display: flex;
-}
+  display: flex;  
+  padding-right: 5px;
+  justify-content: center; 
+  bottom: 0px;
+  }
 
 #profile {
   display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#profile img {
+  height: 200px;
+  position: absolute;
+  left: 3%;
+}
+
+@media (max-width: 750px) {
+  #profile img {
+    height: 200px;
+    position: relative;     
+  }
 }

@@ -8,7 +8,7 @@ function About() {
                 <h3> Hello, I am Syrous Amini.</h3>
             </container>
             
-            <p className=''>I am a full stack developer who began learning how to build web pages on my own before pursuing a more robust education in development languages and practices.
+            <p className=''>I began learning how to build web pages for personal use on my own before pursuing a more robust education in development languages and practices.
             <br />
             <br />
                 I am currently seeking a job as a full-stack developer while expanding my work base with continued efforts in personal and professional projects.
