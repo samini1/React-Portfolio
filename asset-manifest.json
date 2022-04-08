@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/samini-portfolio/static/css/main.7dc6236f.css",
+    "main.js": "/samini-portfolio/static/js/main.14a43762.js",
+    "static/js/787.137aa76a.chunk.js": "/samini-portfolio/static/js/787.137aa76a.chunk.js",
+    "index.html": "/samini-portfolio/index.html",
+    "main.7dc6236f.css.map": "/samini-portfolio/static/css/main.7dc6236f.css.map",
+    "main.14a43762.js.map": "/samini-portfolio/static/js/main.14a43762.js.map",
+    "787.137aa76a.chunk.js.map": "/samini-portfolio/static/js/787.137aa76a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dc6236f.css",
+    "static/js/main.14a43762.js"
+  ]
+}
