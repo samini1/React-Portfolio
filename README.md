@@ -1,5 +1,5 @@
 # React Portfolio
-This is a one-page application created using React.
+This is a one-page professional portfolio created using React.
 ![screenshot](https://user-images.githubusercontent.com/92944248/163890526-6d7c14e8-49c8-447e-9380-858062d7762d.png)
 
 ## Website
